@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key='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'
+openai.api_key='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'
 import tempfile
 import os
 from googletrans import Translator
